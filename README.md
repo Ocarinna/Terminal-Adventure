@@ -18,26 +18,6 @@ Você é um aventureiro perdido nas misteriosas **Terras de Podridão**. Derrote
 
 ---
 
-## 📁 Estrutura do Projeto
-
-TerminalAdventure/
-│
-├── game/
-│ ├── init.py
-│ ├── engine.py # lógica principal do jogo
-│ ├── player.py # dados e progresso do jogador
-│ ├── battle.py # sistema de combate
-│ ├── areas.py # locais e salas do jogo
-│ └── save.py # sistema de salvamento
-│
-├── assets/
-│ └── savegame.txt # arquivo de salvamento (gerado automaticamente)
-│
-├── main.py # ponto de entrada do jogo
-└── README.md # este arquivo
-
----
-
 ## ▶️ Como Jogar
 
 ### Pré-requisitos
